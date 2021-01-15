@@ -1,0 +1,57 @@
+
+
+.winter-color {
+    color: #778ca3;
+    font-size: 60px;
+}
+.head-size {
+    font-size: 60px;
+    color: rgba(228, 186, 33, 0.9);
+    margin-left: 7px;
+}
+.paragraph-size {
+    margin-left: 7px;
+    font-weight: 600;
+    padding-top: 8px;
+}
+.img-width {
+    width: 450px;
+    margin-left: 15px;
+}
+.btn-class {
+    font-size: 15px;
+    font-weight: 700;
+    background-color: #76ac14;
+    padding: 15px 35px;
+    display: inline;
+    border-radius: 5px;
+}
+.btn-class a {
+    color: white;
+    text-decoration: none;
+}
+.card-body-head h5 {
+    margin-top: 15px;
+}
+.buy-btn {
+    float: right;
+}
+.woman-man-part h3 {
+    color: #ffa801;
+    font-size: 35px;
+}
+.woman-man-part {
+    margin-bottom: 10px;
+    margin-right: 5px;
+}  
+.card-img-top {
+    background-color: rgba(128, 128, 128,0.1);
+    margin-bottom: 10px;
+}  
+.shop-img {
+    margin-top: 20px;
+    margin-left: 50px;
+}
+.top-tag  {
+    margin-top: 80px;
+}
